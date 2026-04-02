@@ -1,4 +1,3 @@
-cat << 'EOF' > NOTICE.md
 # License & Credits
 
 ## Script License
