@@ -1,6 +1,3 @@
-# nbt2roblox
-
-cat << 'EOF' > README.md
 # nbt2roblox (Minecraft to Roblox Converter)
 
 A lightweight Python tool to convert Minecraft `.nbt` structure files into Roblox `.rbxmx` model files.
