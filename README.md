@@ -14,4 +14,4 @@ A lightweight Python tool to convert Minecraft `.nbt` structure files into Roblo
 4. Import the resulting `.rbxmx` into Roblox Studio.
 
 ## License
-Dedicated to the Public Domain (CC0 1.0). See `NOTICE.md` [NOTICE.md]((https://github.com/Stormwindsky/nbt2roblox/blob/main/NOTICE.md) for third-party library details.
+Dedicated to the Public Domain (CC0 1.0). See `NOTICE.md` [NOTICE.md](https://github.com/Stormwindsky/nbt2roblox/blob/main/NOTICE.md) for third-party library details.
